@@ -1,0 +1,20 @@
+{
+  "name": "spotlist-app",
+  "version": "1.0.0",
+  "description": "prueba node.js express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rviewer-Challenges/cZY2DNLw8tdyjMzV6Sh8.git"
+  },
+  "author": "luisfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rviewer-Challenges/cZY2DNLw8tdyjMzV6Sh8/issues"
+  },
+  "homepage": "https://github.com/Rviewer-Challenges/cZY2DNLw8tdyjMzV6Sh8#readme"
+}
