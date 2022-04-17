@@ -4,6 +4,7 @@
   "description": "prueba node.js express",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "start": "node index.js",
     "test": "test"
   },
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Rviewer-Challenges/cZY2DNLw8tdyjMzV6Sh8/issues"
   },
-  "homepage": "https://github.com/Rviewer-Challenges/cZY2DNLw8tdyjMzV6Sh8#readme"
+  "homepage": "https://github.com/Rviewer-Challenges/cZY2DNLw8tdyjMzV6Sh8#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
